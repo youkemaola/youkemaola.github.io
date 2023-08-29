@@ -473,7 +473,7 @@
     position: relative;
     scrollbar-color: #8ab5ff #e6efff;
     scrollbar-width: thin;
-    word-break: keep-all;
+    word-break: normal;
     word-wrap: break-word;
 }
 .article {
