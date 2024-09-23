@@ -4,7 +4,16 @@
   <url>
     <loc>https://youkemaola.github.io/posts/33506.html</loc>
     
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://youkemaola.github.io/posts/25472.html</loc>
+    
+    <lastmod>2024-09-23</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -94,7 +103,7 @@
 
   <url>
     <loc>https://youkemaola.github.io/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,28 +111,28 @@
   
   <url>
     <loc>https://youkemaola.github.io/tags/%E7%9E%8E%E7%BC%96/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://youkemaola.github.io/tags/%E7%8E%84%E5%B9%BB/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://youkemaola.github.io/tags/%E7%9E%8E%E6%83%B3/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://youkemaola.github.io/tags/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -132,21 +141,21 @@
   
   <url>
     <loc>https://youkemaola.github.io/categories/%E6%95%85%E4%BA%8B%E4%BC%9A/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://youkemaola.github.io/categories/%E6%97%A0%E6%84%8F%E4%B9%89%E7%9E%8E%E6%83%B3/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://youkemaola.github.io/categories/%E6%97%B6%E9%97%B4%E7%9A%84%E5%8D%B0%E8%AE%B0/</loc>
-    <lastmod>2024-09-22</lastmod>
+    <lastmod>2024-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
